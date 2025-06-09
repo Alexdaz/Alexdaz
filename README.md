@@ -10,15 +10,23 @@
 
 - Low level programming <img src="https://emojis.slackmojis.com/emojis/images/1619792438/34582/computer-chip.png?1619792438" width="25"/>
 - Cyber Security <img src="https://emojis.slackmojis.com/emojis/images/1645046474/53127/hacking.png?1645046474" width="25"/>
-- Graphics <img src="https://emojis.slackmojis.com/emojis/images/1586459340/8574/3d-origin.png?1586459340" width="22"/>
+- AI <img src="https://emojis.slackmojis.com/emojis/images/1660415359/60631/robot.gif?1660415359" width="22"/>
 - Android Development <img src="https://emojis.slackmojis.com/emojis/images/1583181174/7947/android10.png?1583181174" width="25"/>
 - Game Development <img src="https://emojis.slackmojis.com/emojis/images/1618821631/31779/gameboy.gif?1618821631" width="19"/>
 
-### Languages & Frameworks:
+### Languages:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,rust,js,ruby,bash,actix,qt,dotnet,spring,html,css,bots" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,rust,js,python,ruby,bash,html,css" />
+  </a>
+</p>
+
+### Frameworks & Technologies:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=actix,qt,dotnet,spring,bots,nodejs" />
   </a>
 </p>
 
@@ -26,7 +34,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=debian,vscode,androidstudio,unity,redhat,git,github,postman,idea" />
+    <img src="https://skillicons.dev/icons?i=debian,vscode,androidstudio,unity,redhat,kali,git,github,docker,postman,idea,postgres" />
   </a>
 </p>
 
